@@ -6,7 +6,7 @@ Logiciel Windows (10 et 11) de **XDK TEAM DEV** pour **voir ce qu'il y a sur un 
 
 ## Télécharger
 
-1. Ouvre la [dernière version](https://github.com/xavstream/XDK-Gestionnaire-Disque-releases/releases/latest).
+1. Ouvre la [dernière version](https://github.com/XDK-Vito/XDK-Gestionnaire-Disque-releases/releases/latest).
 2. Télécharge **`XDKGestionnaireDisque.exe`** (le fichier `.sig` à côté sert seulement à vérifier les mises à jour).
 3. Lance-le : Windows demande l'autorisation administrateur, c'est normal (il en a besoin pour lire les disques).
 
